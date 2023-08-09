@@ -70,5 +70,6 @@ dependencies {
     implementation 'com.amazonaws:aws-android-sdk-auth-userpools:2.16.13'
     implementation 'com.amazonaws:aws-android-sdk-auth-ui:2.16.13'
 
+    implementation 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5'
 
 }
